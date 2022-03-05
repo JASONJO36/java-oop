@@ -1,2 +1,2 @@
 # java-oop
-자바 oop 예제
+자바 oop
